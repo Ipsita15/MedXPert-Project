@@ -3,7 +3,7 @@
 
 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ipsita-das724/) for any Doubt Clearence
 
-# Hi, I'm Ipsita!👋
+# Hie, I'm Ipsita!👋
 # <p align="center">Project Demonstration</p>
 
 ## Home
