@@ -1,19 +1,23 @@
-<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=MEDXPERT_MAJORPROJECT" alt="Visitor badge"/>
+</p><img src="https://komarev.com/ghpvc/?username=ipsita15&label=Profile%20Visiters&color=0e75b6&style=flat" alt="Ipsita15" />
 
-# <p align="center"> Welcome🙏🏻 </p> Hi, I'm Raj!👋
+# <p align="center"> Welcome🙏🏻 
 
+📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ipsita-das724/) for any Doubt Clearence
+
+# Hi, I'm Ipsita!👋
 I'm a Computer Science Engineer, & I'm confident to work on the projects with my own experience & skills...
 
-- Web Development,
-    - FrontEnd: React | HTML, CSS, JavaScript
-    - BackEnd: Django | Node | JSP
-    - Database: MongoDB | OracleSQL
-- Android Application Development(React Native)
-- Coding Skills in Java (DSA)
-- Additional Skills: JavaScript, Python, ML/AI
+- Web Development Stack,
+    - FrontEnd: HTML, CSS, JavaScript
+    - BackEnd: Django, Php
+    - Database: SQL 
+    - Core: Machine Learning
+
+- Coding Skills in Java (DSA), Solved 500+ DSA based questions
 
 
-## My Skills 🛠
+
+## My Skills 🎓
 
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/>
@@ -39,7 +43,7 @@ I'm a Computer Science Engineer, & I'm confident to work on the projects with my
 <br/>
 
 ## Connect with me 🤝
-[![GitHub followers](https://img.shields.io/github/followers/AyeRaj?style=social)](https://www.github.com/AyeRaj) [![Linkedin Badge](https://img.shields.io/badge/-AyeRajKumar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayerajkumar/)](https://www.linkedin.com/in/ayerajkumar/) [![Instagram Badge](https://img.shields.io/badge/-HeyRajSingh-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heyrajsingh/)](https://www.instagram.com/heyrajsingh/) [![Twitter Follow](https://img.shields.io/twitter/follow/AyeRajSingh?style=social)](https://www.twitter.com/AyeRajSingh) [![Facebook Badge](https://img.shields.io/badge/-HeyRajSingh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/heyrajsingh)](https://www.facebook.com/heyrajsingh)
+[![GitHub followers](https://img.shields.io/github/followers/Ipsita15?style=social)](https://www.github.com/Ipsita15) [![Linkedin Badge](https://img.shields.io/badge/ipsita-das724-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ipsita-das724/)](https://www.linkedin.com/in/ipsita-das724/) [![Instagram Badge](https://img.shields.io/badge/-_ipszz_-black?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_ipszz_/)](https://www.instagram.com/_ipszz_/) [![Twitter Follow](https://img.shields.io/twitter/follow/heyipsita?style=social)](https://www.twitter.com/heyipsita) [![Facebook Badge](https://img.shields.io/badge/-ipsita.das.16100921-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/ipsita.das.16100921)](https://www.facebook.com/ipsita.das.16100921)
 
 
 
