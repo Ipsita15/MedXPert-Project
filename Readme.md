@@ -4,9 +4,6 @@
 📌 Ping me on [LinkedIn](https://www.linkedin.com/in/ipsita-das724/) for any Doubt Clearence
 
 # Hi, I'm Ipsita!👋
-
-<br>
-
 # <p align="center">Project Demonstration</p>
 
 ## Home
@@ -121,14 +118,14 @@ mkvirtualenv venv
 ```
 
 Open the Command Prompt in Project Directory as
-C:\Users\Raj\Coding\Web Developement\MajorProject> `workon venv`
+C:\Users\Ipsita\Coding\Web Developement\MajorProject> `workon venv`
 
 ```
 workon venv
 ```
 
 Install `Django` in Virtual Envoirnment as
-(venv) C:\Users\Raj\Coding\Web Developement\MajorProject>pip install django
+(venv) C:\Users\Ipsita\Coding\Web Developement\MajorProject>pip install django
 ```
 pip install django
 ```
@@ -226,11 +223,11 @@ create a sample index.html file to display with your django development server a
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title> Blank Document</title>
     <link href="{% static 'css/style.css'%}" rel="stylesheet">
 </head>
 <body>
-    <h1>Hellow Duniya</h1>
+    <h1>Hey Folks!!</h1>
 </body>
 </html>
 ```
@@ -261,6 +258,6 @@ def home(request):
 ```
 `return render( request , return )`
 
-> In this file, we will define our all function and backend logic to render it to the output screen
+> In this file, we will define all function and backend logic to render it to the output screen
 
 
